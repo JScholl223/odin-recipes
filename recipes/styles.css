@@ -1,2 +1,11 @@
 /* styles.css */
 
+.h2 {background-color: orange;}
+
+.h1 {background-color: red; font-weight: bold; font-size: 36px;}
+
+.h3 {background-color: blue;}
+
+.all {text-align: center; color: white;}
+
+.imgoflasagna {height: 600; width: 400; align-items: center;}
