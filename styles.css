@@ -1,3 +1,33 @@
 /* styles.css*/
 
-.las {background-color: red; font-size: 24px; color: white; font-family: Arial, Helvetica, sans-serif;}
+
+.title { background-color: lightblue;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+.ul { 
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.li-lasagna {background-color: orange; 
+    padding: 10px;
+    margin-right: 1755px;
+    margin-bottom: 10px;
+}
+
+.li-hamburger { background-color: burlywood;
+    padding: 5px;
+    margin-right: 1755px;
+    margin-bottom: 10px;
+}
+
+.li-cheesecake {background-color: lightcoral;
+    padding: 5px;
+    margin-right: 1755px;
+    margin-bottom: 10px;
+}
